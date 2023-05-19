@@ -537,11 +537,16 @@ img {
 }
 
 .skills__js{
-  width: 30%;
+  width: 50%;
 }
 
 .skills__vue{
-  width: 10%;
+  width: 40%;
+}
+
+
+.skills__react{
+  width: 40%;
 }
 
 .skills__java{
@@ -550,6 +555,10 @@ img {
 
 .skills__python{
   width: 50%;
+}
+
+.skills__php{
+  width: 30%;
 }
 
 .skills__close .skills__list {
@@ -707,6 +716,7 @@ img {
 .swiper-button-prev, 
 .swiper-button-next,
 .swiper-pagination-bullet {
+  
   outline: none;
 }
 
